@@ -16,4 +16,5 @@ import org.zz.gmhelper.cert.test.SM2X509CertMakerTest;
     FileSNAllocatorTest.class, SM2CertUtilTest.class, SM2PfxMakerTest.class, SM2PrivateKeyTest.class,
     SM2X509CertMakerTest.class})
 public class AllTest {
+
 }
